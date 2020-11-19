@@ -1,9 +1,7 @@
-# Flutter Social (Heart String) - A UI for a Social Media App 
+# VYZIE
+## A Brand New, Unique & Better Social App
 
-A Flutter UI implementation of a social media application
-
-
-Star this repo if you like what you see.
+Made With Flutter
 
 ## 📸 Screenshots
 
@@ -18,17 +16,17 @@ Star this repo if you like what you see.
 
 ## Author(s)
 **Emmanuel Fache**
+**Steven Ortiz (Steezo Santana)**
 
-## Getting Started
+# Features: 
 
-**Note**: Make sure your Flutter environment is setup.
-#### Installation
+- Posting Status'
+- 
 
-In the command terminal, run the following commands:
+# VERSION SUPPORT #
 
-    $ git clone https://github.com/emrade/flutter-social.git flutter_social
-    $ cd flutter_social/
-    $ flutter packages get
-    $ flutter run
-
-##### Check out Flutter’s online [documentation](http://flutter.io/) for help getting started with your Flutter project.
+| Version   |      Platform      |  Supported |
+|----------|:-------------:|------:|
+| v1.0.0.6 |  Android | :x: |
+| v1.0.1.0 |    Android   |   :x: |
+| v1.0.1.2 | Android |    :x: |
